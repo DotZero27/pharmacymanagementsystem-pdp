@@ -1,0 +1,35 @@
+{
+    "d002": {
+        "drug_name": "Calpol 500",
+        "provider": "GSK",
+        "expiry_date": "01/2023",
+        "stock": 2328,
+        "price": 15.0,
+        "bin_number": "CAL",
+        "batch_number": "EB150",
+        "usage": "Take this medication by mouth with or without food as directed by your doctor, usually once daily.",
+        "side_effects": "Dizziness, lightheadedness, drowsiness, nausea, vomiting, tiredness, excess saliva/drooling, blurred vision, weight gain, constipation, headache, and trouble sleeping may occur. If any of these effects persist or worsen, consult your doctor."
+    },
+    "d001": {
+        "drug_name": "Cetrizine 50mg",
+        "provider": "Cipla",
+        "expiry_date": "4/2025",
+        "stock": 1210,
+        "price": 5.0,
+        "bin_number": "CET",
+        "batch_number": "D243KL",
+        "usage": "Take this medication by mouth with or without food as directed by your doctor, usually once daily.",
+        "side_effects": "Dizziness, lightheadedness, drowsiness, nausea, vomiting, tiredness, excess saliva/drooling, blurred vision, weight gain, constipation, headache, and trouble sleeping may occur. If any of these effects persist or worsen, consult your doctor."
+    },
+    "d003": {
+        "drug_name": "Cetrizine 100mg",
+        "provider": "Cipla",
+        "expiry_date": "4/2025",
+        "stock":5511,
+        "price": 10.0,
+        "bin_number": "CET",
+        "batch_number": "D245KL",
+        "usage": "Take this medication by mouth with or without food as directed by your doctor, usually once daily.",
+        "side_effects": "Dizziness, lightheadedness, drowsiness, nausea, vomiting, tiredness, excess saliva/drooling, blurred vision, weight gain, constipation, headache, and trouble sleeping may occur. If any of these effects persist or worsen, consult your doctor."
+    }
+}

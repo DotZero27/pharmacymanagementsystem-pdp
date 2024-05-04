@@ -1,0 +1,233 @@
+{
+    "1": {
+        "customer_name": "Lewin",
+        "customer_email": "lewinjesudhas1@gmail.com",
+        "customer_phone": "68765461310",
+        "meds": {
+            "d002": {
+                "drug_name": "Calpol 500",
+                "provider": "GSK",
+                "expiry_date": "04/2025",
+                "batch_number": "EB150",
+                "quantity": 5,
+                "amountpayable": 75.0
+            },
+            "d001": {
+                "drug_name": "Cetrizine 50mg",
+                "provider": "Cipla",
+                "expiry_date": "04/2025",
+                "batch_number": "D243KL",
+                "quantity": 10,
+                "amountpayable": 100.0
+            }
+        },
+        "totalquantity": 15,
+        "totalamountpayable": 175.0,
+        "purchase_date": "2023/12/18",
+        "purchase_time": "03:46 PM"
+    },
+    "2": {
+        "customer_name": "Lewin",
+        "customer_email": "lewinjesudhas1@gmail.com",
+        "customer_phone": "68765461310",
+        "meds": {
+            "d003": {
+                "drug_name": "Cetrizine 100mg",
+                "provider": "Cipla",
+                "expiry_date": "04/2025",
+                "batch_number": "D245KL",
+                "quantity": 3,
+                "amountpayable": 30.0
+            }
+        },
+        "totalquantity": 3,
+        "totalamountpayable": 30.0,
+        "purchase_date": "2023/12/19",
+        "purchase_time": "12:37 AM"
+    },
+    "3": {
+        "customer_name": "Jesus",
+        "customer_email": "lewinjesudhas1@gmail.com",
+        "customer_phone": "9884221415",
+        "meds": {
+            "d001": {
+                "drug_name": "Cetrizine 50mg",
+                "provider": "Cipla",
+                "expiry_date": "04/2025",
+                "batch_number": "D243KL",
+                "quantity": 10,
+                "amountpayable": 100.0
+            }
+        },
+        "totalquantity": 10,
+        "totalamountpayable": 100.0,
+        "purchase_date": "2023/12/20",
+        "purchase_time": "12:10 AM"
+    },
+    "4": {
+        "customer_name": "Lewin",
+        "customer_email": "lewinjesudhas1@gmail.com",
+        "customer_phone": "68765461310",
+        "meds": {
+            "d003": {
+                "drug_name": "Cetrizine 100mg",
+                "provider": "Cipla",
+                "expiry_date": "04/2025",
+                "batch_number": "D245KL",
+                "quantity": 3,
+                "amountpayable": 30.0
+            }
+        },
+        "totalquantity": 3,
+        "totalamountpayable": 30.0,
+        "purchase_date": "2023/12/21",
+        "purchase_time": "12:37 AM"
+    },
+    "5": {
+        "customer_name": "Your Name",
+        "customer_email": "dotzero27@gmail.com",
+        "customer_phone": "7904783612",
+        "meds": {
+            "d002": {
+                "drug_id": "d002",
+                "drug_name": "Calpol 500",
+                "provider": "GSK",
+                "expiry_date": "01/2023",
+                "batch_number": "EB150",
+                "quantity": 1,
+                "amountpayable": 15
+            }
+        },
+        "totalquantity": 1,
+        "totalamountpayable": 15.0,
+        "purchase_date": "2023/12/25",
+        "purchase_time": "01:30 AM"
+    },
+    "6": {
+        "customer_name": "Your Name",
+        "customer_email": "dotzero27@gmail.com",
+        "customer_phone": "7904783612",
+        "meds": {
+            "d002": {
+                "drug_id": "d002",
+                "drug_name": "Calpol 500",
+                "provider": "GSK",
+                "expiry_date": "01/2023",
+                "batch_number": "EB150",
+                "quantity": 1,
+                "amountpayable": 15
+            }
+        },
+        "totalquantity": 1,
+        "totalamountpayable": 15.0,
+        "purchase_date": "2023/12/25",
+        "purchase_time": "01:30 AM"
+    },
+    "7": {
+        "customer_name": "Your Name",
+        "customer_email": "dotzero27@gmail.com",
+        "customer_phone": "7904783612",
+        "meds": {
+            "d002": {
+                "drug_id": "d002",
+                "drug_name": "Calpol 500",
+                "provider": "GSK",
+                "expiry_date": "01/2023",
+                "batch_number": "EB150",
+                "quantity": 1,
+                "amountpayable": 15
+            }
+        },
+        "totalquantity": 1,
+        "totalamountpayable": 15.0,
+        "purchase_date": "2023/12/25",
+        "purchase_time": "01:30 AM"
+    },
+    "8": {
+        "customer_name": "Your Name",
+        "customer_email": "dotzero27@gmail.com",
+        "customer_phone": "7904783612",
+        "meds": {
+            "d002": {
+                "drug_id": "d002",
+                "drug_name": "Calpol 500",
+                "provider": "GSK",
+                "expiry_date": "01/2023",
+                "batch_number": "EB150",
+                "quantity": 1,
+                "amountpayable": 15
+            }
+        },
+        "totalquantity": 1,
+        "totalamountpayable": 15.0,
+        "purchase_date": "2023/12/25",
+        "purchase_time": "01:30 AM"
+    },
+    "9": {
+        "customer_name": "test",
+        "customer_email": "dotzero27@gmail.com",
+        "customer_phone": "7904783612",
+        "meds": {
+            "d001": {
+                "drug_id": "d001",
+                "drug_name": "Cetrizine 50mg",
+                "provider": "Cipla",
+                "expiry_date": "4/2025",
+                "batch_number": "D243KL",
+                "quantity": 1,
+                "amountpayable": 5
+            },
+            "d003": {
+                "drug_id": "d003",
+                "drug_name": "Cetrizine 100mg",
+                "provider": "Cipla",
+                "expiry_date": "4/2025",
+                "batch_number": "D245KL",
+                "quantity": 1,
+                "amountpayable": 10
+            },
+            "d002": {
+                "drug_id": "d002",
+                "drug_name": "Calpol 500",
+                "provider": "GSK",
+                "expiry_date": "01/2023",
+                "batch_number": "EB150",
+                "quantity": 5,
+                "amountpayable": 75
+            }
+        },
+        "totalquantity": 7,
+        "totalamountpayable": 90.0,
+        "purchase_date": "2023/12/25",
+        "purchase_time": "11:33 AM"
+    },
+    "10": {
+        "customer_name": "test",
+        "customer_email": "dotzero27@gmail.com",
+        "customer_phone": "7904783612",
+        "meds": {
+            "d001": {
+                "drug_id": "d001",
+                "drug_name": "Cetrizine 50mg",
+                "provider": "Cipla",
+                "expiry_date": "4/2025",
+                "batch_number": "D243KL",
+                "quantity": 4,
+                "amountpayable": 20
+            },
+            "d002": {
+                "drug_id": "d002",
+                "drug_name": "Calpol 500",
+                "provider": "GSK",
+                "expiry_date": "01/2023",
+                "batch_number": "EB150",
+                "quantity": 3,
+                "amountpayable": 45
+            }
+        },
+        "totalquantity": 7,
+        "totalamountpayable": 65.0,
+        "purchase_date": "2023/12/25",
+        "purchase_time": "11:39 AM"
+    }
+}
